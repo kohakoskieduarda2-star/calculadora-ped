@@ -1,0 +1,11 @@
+{
+  "name": "Calculadora Pediátrica de Emergência",
+  "short_name": "Calc Pediátrica",
+  "description": "Ferramenta de apoio clínico e dupla checagem em emergência pediátrica.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "any"
+}
